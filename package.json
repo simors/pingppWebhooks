@@ -1,0 +1,13 @@
+{
+  "name": "pingppWebhooks",
+  "version": "1.0.0",
+  "description": "ping++ payment webhooks server",
+  "main": "index.js",
+  "repository": "git@github.com:simors/pingppWebhooks.git",
+  "author": "wanpeng <wanpeng19860919@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "leancloud-storage": "^3.4.2"
+  }
+}
